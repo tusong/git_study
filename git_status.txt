@@ -1,0 +1,3 @@
+使用git-status查看状态
+
+git status --short
